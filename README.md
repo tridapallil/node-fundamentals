@@ -1,4 +1,4 @@
-# Node.js API Demo
+# Node.js Sample - Fundamentals
 
 This is a Node.js API demo that was developed to illustrate and apply the fundamental concepts of Node.js. 
 The project serves as a practical example of how to build and implement a robust and scalable backend service using Node.js technology.
